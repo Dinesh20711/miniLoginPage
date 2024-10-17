@@ -1,0 +1,28 @@
+.home-bg-container {
+  background-color: #183b56;
+  height: 100vh;
+  padding: 10px;
+}
+
+.nav-items {
+  padding: 22px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logout-btn {
+  background-color: transparent;
+  border: 2px solid white;
+  padding: 15px;
+  border-radius: 4px;
+  color: white;
+}
+
+.digital-section{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color:white;
+}
